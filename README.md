@@ -1,1 +1,1 @@
-Template repo with docs, GitHub Actions, etc. to create other projects.
+Template repo with docs, GitHub Actions and others to create other projects.
