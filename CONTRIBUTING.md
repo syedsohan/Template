@@ -1,8 +1,6 @@
 # ***Hello 👋, First time contributing? No Problem! You can do it easily.***
 
-
 Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
-
 
 - [Getting started with Git and GitHub.](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
 - [Forking a Repo.](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
@@ -79,9 +77,9 @@ git push origin YourBranchName
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
 
-## ✨ Style Guides For Git Commit Messages :memo:
+## ✨ Style Guides For Git Commit Messages 📝
 
-#### Here's a list of some good to have points, that can add more value to your contribution logs.
+### Here's a list of some good to have points, that can add more value to your contribution logs
 
 - Use the present tense (example: "Add feature" and not "Added feature").
 - Use the imperative mood (example: "Move item to...", instead of "Moves item to...").
@@ -99,4 +97,4 @@ For more detailed reference to the above points, refer [here.](https://cbea.ms/g
 
 For major changes, you are welcome to open an issue  about what you would like to contribute. Enhancements will be appreciated.
 
-#### All the Best! 🥇
+### All the Best! 🥇
