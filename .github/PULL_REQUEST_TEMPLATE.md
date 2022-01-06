@@ -4,7 +4,7 @@
 
 <!-- Example: Closes #31. -->
 
-# Changes Proposed
+## Changes Proposed
 
 <!-- List all the proposed changes in your PR. -->
 
@@ -16,7 +16,7 @@
 [ ] - Not correct; marked as **not** done.
 -->
 
-# Check List (Check all the applicable boxes) <!-- Follow the above conventions to check the box. -->
+## Check List (Check all the applicable boxes) <!-- Follow the above conventions to check the box. -->
 
 - [ ] My code follows the code style of this project.
 - [ ] My change requires changes to the documentation.
@@ -25,10 +25,10 @@
 - [ ] This PR does not contain plagiarized content.
 - [ ] The title of my pull request is a short description of the requested changes.
 
-# Screenshots
+## Screenshots
 
 <!-- Add all the screenshots which support your changes. -->
 
-# Note to Reviewers
+## Note to Reviewers
 
 <!-- Add notes to reviewers if applicable. -->
